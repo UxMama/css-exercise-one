@@ -8,7 +8,7 @@ nav {
   margin-top: -10px;
   position: fixed;
   width: 100%;
-}
+}  /* added bracket to this broken code*/
 
 section {
   margin: 0 auto;
@@ -35,13 +35,14 @@ h3 {
   margin 10px 0;
   width: 100%;
 }
+/* changed background color of last 3 divs in html file*/
 
-.colorize {
-  background-color: pink:
-}
-.colorize {
-  background-color:purple:
-}
-.colorize {
-  background-color: red:
-}
+.one {
+   background-color: pink;
+ }
+.two {
+    background-color: yellow;
+  }
+.three {
+     background-color: orange;
+   }
